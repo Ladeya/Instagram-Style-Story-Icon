@@ -15,7 +15,7 @@ img {
 .border {
   position: absolute;
   background-image: linear-gradient(#EA5E4B,#FE227A,#D9A173,rgb(248, 248, 79));
-  border-radius:50%;
+  border-radius: 50%;
   animation-name: spinning-circle;
   animation-duration: 10s;
   animation-iteration-count: infinite;
